@@ -1,0 +1,1 @@
+To run code, type python3 lawnmower.py in terminal
